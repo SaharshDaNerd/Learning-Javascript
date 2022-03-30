@@ -1,5 +1,5 @@
-Learning JS from FreeCodeCamp
+# Learning JS from FreeCodeCamp
 
-Video link - https://www.youtube.com/watch?v=PkZNo7MFNFg
+**Video link** - [YouTube](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
-Course Link - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+**Course Link** - [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
